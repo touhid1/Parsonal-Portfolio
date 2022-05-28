@@ -13,7 +13,7 @@ const SocialMedia = () => (
       <a href="https://github.com/touhid1"><AiFillGithub /></a>
     </div>
     <div>
-      <GrResume />
+      <a href="../assets/resume.pdf"><GrResume /></a>
     </div>
   </div>
 );
