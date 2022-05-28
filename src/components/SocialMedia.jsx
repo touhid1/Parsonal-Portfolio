@@ -7,7 +7,7 @@ import { GrResume } from 'react-icons/gr';
 const SocialMedia = () => (
   <div className="app__social">
     <div>
-      <SiLinkedin />
+      <a href="https://www.linkedin.com/in/touhidul066/"><SiLinkedin /></a>
     </div>
     <div>
       <a href="https://github.com/touhid1"><AiFillGithub /></a>
