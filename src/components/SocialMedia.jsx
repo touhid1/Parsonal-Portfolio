@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/control-has-associated-label */
 import React from 'react';
 import { SiLinkedin } from 'react-icons/si';
 import { AiFillGithub } from 'react-icons/ai';
@@ -9,7 +10,7 @@ const SocialMedia = () => (
       <SiLinkedin />
     </div>
     <div>
-      <AiFillGithub />
+      <a href="https://github.com/touhid1"><AiFillGithub /></a>
     </div>
     <div>
       <GrResume />
